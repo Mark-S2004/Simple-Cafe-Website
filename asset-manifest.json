@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6fe9096.css",
+    "main.js": "/static/js/main.45b36283.js",
+    "static/js/787.2da4da8e.chunk.js": "/static/js/787.2da4da8e.chunk.js",
+    "static/media/starbucks_logo.jpeg": "/static/media/starbucks_logo.6b833736cd3fa92e59c2.jpeg",
+    "index.html": "/index.html",
+    "main.b6fe9096.css.map": "/static/css/main.b6fe9096.css.map",
+    "main.45b36283.js.map": "/static/js/main.45b36283.js.map",
+    "787.2da4da8e.chunk.js.map": "/static/js/787.2da4da8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6fe9096.css",
+    "static/js/main.45b36283.js"
+  ]
+}
