@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6fe9096.css",
-    "main.js": "/static/js/main.fde482f0.js",
-    "static/js/787.2da4da8e.chunk.js": "/static/js/787.2da4da8e.chunk.js",
-    "static/media/starbucks_logo.jpeg": "/static/media/starbucks_logo.6b833736cd3fa92e59c2.jpeg",
-    "index.html": "/index.html",
-    "main.b6fe9096.css.map": "/static/css/main.b6fe9096.css.map",
-    "main.fde482f0.js.map": "/static/js/main.fde482f0.js.map",
-    "787.2da4da8e.chunk.js.map": "/static/js/787.2da4da8e.chunk.js.map"
+    "main.css": "/Simple-Cafe-Website/static/css/main.b6fe9096.css",
+    "main.js": "/Simple-Cafe-Website/static/js/main.f7932aaa.js",
+    "static/js/787.2da4da8e.chunk.js": "/Simple-Cafe-Website/static/js/787.2da4da8e.chunk.js",
+    "static/media/starbucks_logo.jpeg": "/Simple-Cafe-Website/static/media/starbucks_logo.6b833736cd3fa92e59c2.jpeg",
+    "index.html": "/Simple-Cafe-Website/index.html",
+    "main.b6fe9096.css.map": "/Simple-Cafe-Website/static/css/main.b6fe9096.css.map",
+    "main.f7932aaa.js.map": "/Simple-Cafe-Website/static/js/main.f7932aaa.js.map",
+    "787.2da4da8e.chunk.js.map": "/Simple-Cafe-Website/static/js/787.2da4da8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6fe9096.css",
-    "static/js/main.fde482f0.js"
+    "static/js/main.f7932aaa.js"
   ]
 }
